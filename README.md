@@ -19,7 +19,7 @@ I also build and ship small products with AI coding tools. This is where they li
 **iPhone apps**
 - [Good Walk](https://github.com/nickstrom5/goodwalk): dog walk tracker with a daily streak and home-screen widgets.
 - [Damp](https://github.com/nickstrom5/damp): "drink less, not never", a one-tap dry-night tracker.
-- [Lume](https://github.com/nickstrom5/lume): daily glow coach (marketing site).
+- [Lume](https://github.com/nickstrom5/lume): daily glow coach. One photo, a glow score in about a minute.
 
 **Web**
 - [portfolio](https://github.com/nickstrom5/portfolio): source for work-with-nick.com, a static Astro site.
