@@ -10,14 +10,14 @@ I also build and ship small products with AI coding tools. This is where they li
 
 #### What's here
 
-**[Cartworth](https://cartworth.app)**: grocery price comparison for anywhere in the US. Enter a ZIP code and it prices the same item at every nearby chain, compares them per unit and labels where each price came from. It has a Node web app ([app.cartworth.app](https://app.cartworth.app)), a SwiftUI iPhone app and an 800+ test suite.
+**[Cartworth](https://cartworth.app)**: grocery price comparison for anywhere in the US. Enter a ZIP code and it prices the same item at every nearby chain, compares them per unit and labels where each price came from. It has a Node web app ([app.cartworth.app](https://app.cartworth.app)), a SwiftUI iPhone app [on the App Store](https://apps.apple.com/us/app/cartworth-grocery-prices/id6816954374) and an 800+ test suite.
 [cartworth](https://github.com/nickstrom5/cartworth)
 
-**[Eats Ranked](https://eatsranked.com)**: free restaurant guides, one state at a time, built from public health-inspection records plus hand-checked local favorites. Most of the country is live on the web, with new states added regularly, and the Chicago app is on the App Store. Every state uses the same setup: a Python data pipeline, a native Swift app and a static website.
+**[Eats Ranked](https://eatsranked.com)**: free restaurant guides, one state at a time, built from public health-inspection records plus hand-checked local favorites. All 50 states and DC are live on the web, and the Chicago app is [on the App Store](https://apps.apple.com/us/app/chicago-restaurants-ranked/id6816931379). Every state uses the same setup: a Python data pipeline, a native Swift app and a static website.
 [eatsranked](https://github.com/nickstrom5/eatsranked) (hub site) · [wisconsin-eats](https://github.com/nickstrom5/wisconsin-eats) · [california-eats](https://github.com/nickstrom5/california-eats) · [new-york-eats](https://github.com/nickstrom5/new-york-eats) · [chicago-restaurants-ranked](https://github.com/nickstrom5/chicago-restaurants-ranked) · [more](https://github.com/nickstrom5?tab=repositories&q=eats)
 
 **iPhone apps**
-- [Good Walk](https://github.com/nickstrom5/goodwalk): dog walk tracker with a daily streak and home-screen widgets.
+- [Good Walk](https://github.com/nickstrom5/goodwalk): dog walk tracker with a daily streak and home-screen widgets. [On the App Store](https://apps.apple.com/us/app/good-walk-dog-walk-streak/id6814555254).
 - [Damp](https://github.com/nickstrom5/damp): "drink less, not never", a one-tap dry-night tracker.
 - [Lume](https://github.com/nickstrom5/lume): daily glow coach. One photo, a glow score in about a minute.
 
